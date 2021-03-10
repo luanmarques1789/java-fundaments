@@ -5,7 +5,7 @@ public class forLoop {
         var dante = 64;
         var cont = 0;
 
-        for (int i = 1; i <= dante; i++) {E
+        for (int i = 1; i <= dante; i++) {
             cont++;
             System.out.println(i);
         }

@@ -27,7 +27,7 @@ public class List {
 		}
 
 		String str = aulas.get(0);
-		System.out.println("A primeira aula � " + str);
+		System.out.println("A primeira aula é " + str);
 
 		for (int i = 0; i < aulas.size(); i++) {
 			System.out.println("aula: " + aulas.get(i));
