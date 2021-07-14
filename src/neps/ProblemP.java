@@ -1,4 +1,4 @@
-package neps.sequenciaFibo;
+package neps;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @since 2021-06-09
  */
 
-public class Resolution {
+public class ProblemP {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
 

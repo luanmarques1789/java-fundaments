@@ -2,6 +2,10 @@ package neps;
 
 public class ProblemN {
   public static void main(String[] args) {
-    System.out.println("Ola Neps Academy!");
+    print("Ola Neps Academy!");
+  }
+
+  public static void print(String msg) {
+    System.out.println(msg);
   }
 }
